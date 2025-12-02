@@ -1,6 +1,5 @@
 /**
 -----------------------------------------------
-Yens & Yens Internship Assignment
 Realistic water physics with MPU6050 + WS2812B
 -----------------------------------------------
 *
